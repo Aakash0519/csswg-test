@@ -8,7 +8,7 @@ this repository can be found in the `css` subdirectory:
 * https://github.com/w3c/web-platform-tests/tree/master/css
 
 Issues and pull requests on this repository are kept for historical interest
-only; no new issues should be opened: they will be as heard as a tree falling
+only; no new issues should be opened: they will be as regarded as a tree falling
 in a abandoned forest.
 
 If you have an existing pull request open here, feel free to push new changes
